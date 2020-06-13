@@ -16,7 +16,7 @@ What things you need to install the software and how to install them
 
 ## Running the script
 
-Make sure you instaled all the prerequisites.
+Make sure you installed all the prerequisites.
 
 ### Getting Server Started
 
