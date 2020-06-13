@@ -12,7 +12,7 @@ What things you need to install the software and how to install them
 * [node](https://nodejs.org/en/download/) - The runtime environment to run server Javascript file.
 * NetCat - Networking utility which reads and writes data across network connections using the TCP/IP protocol.
   * [Windows](https://joncraton.org/blog/46/netcat-for-windows/)
-  * [Unix](https://www.tecmint.com/netcat-nc-command-examples/#:~:text=Netcat%20(or%20nc%20in%20short,%2C%20or%20UNIX%2Ddomain%20sockets.)
+  * [Unix](https://www.tecmint.com/netcat-nc-command)
 
 ## Running the script
 
